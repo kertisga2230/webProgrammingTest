@@ -1,4 +1,18 @@
 ﻿body {
 }
 
+.left {
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    text-shadow: 4px 4px 1px darkgrey;
+}
 
+#salt {
+    display: flex;
+    /*justify-content: end;*/
+    flex-direction: row-reverse;
+    align-items: center;
+    padding: 30px;
+    text-shadow: 4px 4px 1px darkgrey;
+}
